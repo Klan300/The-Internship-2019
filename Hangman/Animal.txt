@@ -1,0 +1,5 @@
+dog#Friendly with Human
+elephant#Have Two Big ivory
+horse#Can run Fast
+cow#Can make a milk
+snake#Have poision
